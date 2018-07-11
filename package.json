@@ -62,6 +62,12 @@
           "version": "^2.0.2",
           "reason": "see https://github.com/antvis/g6/blob/master/plugins/tool.minimap/index.js#L18"
         }
+      },
+      "@antv/adjust": {
+        "0.0.3": {
+          "version": "0.0.3",
+          "reason": "see https://github.com/antvis/adjust/blob/master/src/base.js#L3"
+        }
       }
     }
   }
