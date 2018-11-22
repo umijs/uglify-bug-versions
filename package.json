@@ -134,12 +134,6 @@
           "version": "^11.1.1",
           "reason": "https://github.com/ckeditor/ckeditor5-build-decoupled-document/blob/bb711811538ea18df1b2ee0a8d93ea3c739af4b6/build/ckeditor.js#L5"
         }
-      },
-      "@ckeditor/ckeditor5-react": {
-        "^1.0.0": {
-          "version": "^1.0.0",
-          "reason": "https://github.com/ckeditor/ckeditor5-react/blob/984378479edb68a033551ac15115fef95887a44e/dist/ckeditor.js#L5"
-        }
       }
     }
   }
