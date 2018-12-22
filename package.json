@@ -112,8 +112,8 @@
         }
       },
       "ansi-regex": {
-        "^3.0.0": {
-          "version": "^3.0.0",
+        "*": {
+          "version": "*",
           "reason": "https://github.com/chalk/ansi-regex/blob/v3.0.0/index.js#L3"
         }
       },
