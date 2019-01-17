@@ -147,6 +147,10 @@
         "^4.1.0": {
           "version": "^4.1.0",
           "reason": "https://github.com/visionmedia/debug/blob/master/src/browser.js#L155"
+        },
+        "^4.1.1": {
+          "version": "^4.1.1",
+          "reason": "https://github.com/visionmedia/debug/blob/master/src/browser.js#L155"
         }
       },
       "bezier-js": {
