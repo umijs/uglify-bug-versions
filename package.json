@@ -159,6 +159,7 @@
 	"^2.1.2: {
 	  "version": "^2.1.2",
 	  "reason": "https://github.com/winstonjs/logform/blob/master/format.js#L7"
-    }
+    	}
+     }
   }
 }
