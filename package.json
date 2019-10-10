@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.47",
+  "version": "0.1.49",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -295,6 +295,12 @@
         "^5.1.0": {
           "version": "^5.1.0",
           "reason": "https://github.com/chalk/wrap-ansi/blob/master/index.js#L13"
+        }
+      },
+      "react-intl": {
+        "^3.3.2": {
+          "version": "^3.3.2",
+          "reason": "https://github.com/formatjs/react-intl/blob/v3.3.2/src/utils.ts#L36"
         }
       },
       "ansi-styles": {
