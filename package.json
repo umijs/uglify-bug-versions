@@ -338,6 +338,24 @@
           "version": "*",
           "reason": "https://github.com/react-spring/react-spring"
         }
+      },
+      "@supermap/iclient-common": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/SuperMap/iClient-JavaScript/edit/master/libs/leaflet/leaflet.js#L5"
+        }
+      },
+      "@supermap/iclient-leaflet": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/SuperMap/iClient-JavaScript/edit/master/libs/leaflet/leaflet.js#L5"
+        }
+      },
+      "elasticsearch": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/elastic/elasticsearch-js/blob/master/lib/Serializer.js"
+        }
       }
     }
   }
