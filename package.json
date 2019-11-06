@@ -362,6 +362,12 @@
           "version": "*",
           "reason": "https://github.com/elastic/elasticsearch-js/blob/master/lib/Serializer.js#L11"
         }
+      },
+      "griffith": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/zhihu/griffith/blob/master/packages/griffith-hls/src/Video.js#L43"
+        }
       }
     }
   }
