@@ -380,7 +380,7 @@
           "version": "^1.0.3",
           "reason": "https://github.com/kaimallea/isMobile"
         }
-      },
+      }
     }
   }
 }
