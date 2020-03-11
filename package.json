@@ -378,7 +378,7 @@
       "ismobilejs": {
         "^1.0.3": {
           "version": "^1.0.3",
-          "reason": "https://github.com/kaimallea/isMobile"
+          "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
         }
       }
     }
