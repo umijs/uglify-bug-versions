@@ -374,6 +374,18 @@
           "version": "^2.0.0-alpha.9",
           "reason": "https://github.com/BrainJS/brain.js/blob/master/dist/brain-browser.min.js#L14"
         }
+      },
+      "pixi.js": {
+        "^5.2.1": {
+          "version": "^5.2.1",
+          "reason": "https://github.com/pixijs/pixi.js/tree/dev/bundles/pixi.js"
+        }
+      },
+      "pixi.js-legacy": {
+        "^5.2.1": {
+          "version": "^5.2.1",
+          "reason": "https://github.com/pixijs/pixi.js/tree/dev/bundles/pixi.js-legacy"
+        }
       }
     }
   }
