@@ -375,18 +375,12 @@
           "reason": "https://github.com/BrainJS/brain.js/blob/master/dist/brain-browser.min.js#L14"
         }
       },
-      "pixi.js": {
-        "^5.2.1": {
-          "version": "^5.2.1",
-          "reason": "https://github.com/pixijs/pixi.js/tree/dev/bundles/pixi.js"
+      "ismobilejs": {
+        "^1.0.3": {
+          "version": "^1.0.3",
+          "reason": "https://github.com/kaimallea/isMobile"
         }
       },
-      "pixi.js-legacy": {
-        "^5.2.1": {
-          "version": "^5.2.1",
-          "reason": "https://github.com/pixijs/pixi.js/tree/dev/bundles/pixi.js-legacy"
-        }
-      }
     }
   }
 }
