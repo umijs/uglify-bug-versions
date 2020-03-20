@@ -380,6 +380,12 @@
           "version": "^1.0.3",
           "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
         }
+      },
+       "use-email-autocomplete": {
+        "^1.0.7": {
+          "version": "^1.0.7",
+          "reason": "https://github.com/alex-cory/use-email-autocomplete"
+        }
       }
     }
   }
