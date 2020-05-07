@@ -384,6 +384,18 @@
           "version": "^1.0.3",
           "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
         }
+      },
+      "@nivo/line": {
+        "^0.61.1": {
+          "version": "^0.61.1",
+          "reason": "https://github.com/sorrycc/blog/issues/68"
+        }
+      },
+      "@nivo/pie": {
+        "^0.61.1": {
+          "version": "^0.61.1",
+          "reason": "https://github.com/sorrycc/blog/issues/68"
+        }
       }
     }
   }
