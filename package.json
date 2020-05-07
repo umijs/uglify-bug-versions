@@ -384,6 +384,12 @@
           "version": "^1.0.3",
           "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
         }
+      },
+      "d3-force": {
+        "^2.0.1": {
+          "version": "^2.0.1",
+          "reason": "https://github.com/d3/d3-force"
+        }
       }
     }
   }
