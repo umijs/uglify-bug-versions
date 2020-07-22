@@ -235,10 +235,10 @@
           "reason": "https://github.com/sindresorhus/sort-keys/blob/master/index.js#L4"
         }
       },
-      "@react-pdf/renderer": {
+      "dfa": {
         "*": {
           "version": "*",
-          "reason": "https://github.com/diegomura/react-pdf"
+          "reason": "https://github.com/foliojs/dfa/blob/master/src/StateMachine.js#L8"
         }
       },
       "react-pdf-js": {
