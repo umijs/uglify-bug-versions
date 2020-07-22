@@ -235,6 +235,12 @@
           "reason": "https://github.com/sindresorhus/sort-keys/blob/master/index.js#L4"
         }
       },
+      "@react-pdf/renderer": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/diegomura/react-pdf"
+        }
+      },
       "react-pdf-js": {
         "*": {
           "version": "*",
