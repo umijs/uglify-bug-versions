@@ -408,6 +408,12 @@
           "version": "^2.0.1",
           "reason": "https://github.com/d3/d3-force"
         }
+      },
+      "asn1.js": {
+        "^5.0.0": {
+          "version": "^5.0.0",
+          "reason": "https://github.com/indutny/asn1.js/issues/99#issuecomment-365441476"
+        }
       }
     }
   }
