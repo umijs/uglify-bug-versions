@@ -414,6 +414,48 @@
           "version": "^2.0.1",
           "reason": "https://github.com/d3/d3-force"
         }
+      },
+      "d3-regression": {
+        "^1.3.5": {
+          "version": "^1.3.5",
+          "reason": "https://github.com/HarryStevens/d3-regression/blob/master/src/exponential.js#L16"
+        }
+      },
+      "d3-dispatch": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "https://github.com/d3/d3-dispatch/blob/master/src/dispatch.js#L1"
+        }
+      },
+      "d3-timer": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "https://github.com/d3/d3-timer/blob/master/src/timeout.js#L6"
+        }
+      },
+      "d3-quadtree": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "https://github.com/d3/d3-quadtree/blob/master/src/add.js#L2"
+        }
+      },
+      "ml-matrix": {
+        "^6.5.1": {
+          "version": "^6.5.1",
+          "reason": "https://github.com/mljs/matrix"
+        }
+      },
+      "is-any-array": {
+        "^0.0.3": {
+          "version": "^0.0.3",
+          "reason": "https://github.com/cheminfo/is-any-array/blob/master/src/index.js#L1"
+        }
+      },
+      "umi": {
+        "^2.13.13": {
+          "version": "^2.13.13",
+          "reason": "https://github.com/umijs/umi"
+        }
       }
     }
   }
