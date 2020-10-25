@@ -426,6 +426,12 @@
           "version": "^1.5.0",
           "reason": "https://github.com/bilibili/flv.js/blob/master/src/utils/polyfill.js#L19"
         }
+      },
+      "pearplayer": {
+        "^2.5.10": {
+          "version": "^2.5.10",
+          "reason": "https://github.com/PearInc/PearPlayer.js/blob/master/dist/pear-player.js#L15617"
+        }
       }
     }
   }
