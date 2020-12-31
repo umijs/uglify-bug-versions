@@ -451,6 +451,12 @@
           "reason": "https://github.com/PearInc/PearPlayer.js/blob/master/dist/pear-player.js#L15617"
         }
       },
+      "@babel/types": {
+        "^7.4.4": {
+          "version": "^7.4.4",
+          "reason": "https://github.com/babel/babel/blob/master/packages/babel-types/src/validators/isNode.js#L4"
+        }
+      },
       "nanoid": {
         "^3.1.18": {
           "version": "^3.1.18",
