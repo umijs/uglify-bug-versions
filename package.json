@@ -456,6 +456,12 @@
           "version": "^3.1.18",
           "reason": "https://github.com/ai/nanoid#ie"
         }
+      },
+      "engine.io-client": {
+        "^4.0.6": {
+          "version": "^4.0.6",
+          "reason": "https://github.com/socketio/engine.io-client/blob/master/lib/globalThis.browser.js#L1"
+        }
       }
     }
   }
