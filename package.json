@@ -456,6 +456,12 @@
           "version": "^3.1.18",
           "reason": "https://github.com/ai/nanoid#ie"
         }
+      },
+      "has-flag": {
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "https://github.com/sindresorhus/has-flag/blob/main/index.js#L4"
+        }
       }
     }
   }
