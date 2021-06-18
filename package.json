@@ -508,6 +508,30 @@
           "version": "3.0.0",
           "reason": "https://github.com/mysticatea/abort-controller/blob/a935d38e09eb95d6b633a8c42fcceec9969e7b05/src/abort-controller.ts#L33"
         }
+      },
+      "slash2": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/pscedu/slash2"
+        }
+      },
+      "source-list-map": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/webpack/source-list-map"
+        }
+      },
+      "webpack-theme-color-replacer": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/hzsrc/webpack-theme-color-replacer"
+        }
+      },
+      "webpack-sources": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/webpack/webpack-sources"
+        }
       }
     }
   }
